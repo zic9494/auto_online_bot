@@ -5,7 +5,8 @@
 4.若遇到程式無法執行，請試著重新啟動<br>
 5.data.json為個資存放檔案請小心保管<br>
 6.chromedriver版本為101.0.4951.67若有版本不支援者，請至官方網站下載<br>
-7.聯絡方式:zic9494@gamil.com<br>
+7.用途:用於簡化線上上課時需要手動開啟多個分頁<br>
 <br>
+聯絡方式:zic9494@gamil.com<br>
 chromedriver:https://chromedriver.chromium.org/<br>
 python:https://www.python.org/<br>
